@@ -34,7 +34,7 @@ public class LoopingStatementsDemo {
             if (i == 7) {
                 continue; // Skip to the next iteration when i is 7
             }
-            if (i > 😎 {
+            if (i > 8 ){
                 break; // Exit the loop when i is greater than 8
             }
             System.out.println("Number: " + i);
